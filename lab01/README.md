@@ -1,0 +1,5 @@
+The process of capturing an image using a camera would involve projecting an object from a 3-D plane to a 2-D plane. This process maps out points in the 3-D world to a 2-D plane in the camera screen. To accomplish this, some sort of vector transformation is done on the 3-D vector coordinates to transform it to 2-D.
+
+Something peculiar about projected images from the 3-D plane to the 2-D plane is that the projected image becomes distorted. By distortion, I mean to say that whereas some features like colors are maintained in the projected image, other features like relative size, shape and distance are lost during such kind of image projection. These kind of features that are not preserved create the phenomenon of PERSPECTIVE DISTORTIONS where objects that are close-by appear bigger on the camera screen, whereas objects that are far off appear smaller than their proper or relative sizes.
+
+The aim of this assignment is to correct distorted images, such that the relative sizes and positions are restored in the transformed image.
