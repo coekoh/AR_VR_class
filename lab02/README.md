@@ -1,0 +1,1 @@
+In this lab, a stereopair was created by taking slightly different pictures with a phone camera and then padding both images into a background dark image. Also, a star map was created by mapping a star image created from a csv file to a 4096-by-2048-pixel image
