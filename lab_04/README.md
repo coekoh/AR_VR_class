@@ -1,0 +1,1 @@
+This folder contains a python script used for flat projection of a 2D image. The folder also contains a C# script used for animating a 2D image on Unity. The Before and After Image of the Flat projection is also available in this folder.
